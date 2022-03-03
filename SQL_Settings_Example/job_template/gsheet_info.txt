@@ -1,3 +1,0 @@
-gsheet_id
-Tab Name
-A1(Cell where to start pasting data)
