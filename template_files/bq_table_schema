@@ -1,0 +1,7 @@
+[
+{'name': 'Column_1', 'type': 'STRING'},
+{'name': 'Column_2', 'type': 'STRING'},
+{'name': 'Column_3', 'type': 'TIMESTAMP'},
+{'name': 'Column_4', 'type': 'STRING'},
+{'name': 'Column_5', 'type': 'FLOAT'},
+]

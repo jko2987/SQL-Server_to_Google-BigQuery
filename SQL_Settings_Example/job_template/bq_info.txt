@@ -1,0 +1,3 @@
+BQ PROJECT NAME ex:xpo-data-cloud
+BQ DESTINATION TABLE: ex:xpotools.open_sims2_test
+BQ REPLACE METHOD: replace OR append

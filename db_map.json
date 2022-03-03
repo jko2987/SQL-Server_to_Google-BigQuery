@@ -1,0 +1,7 @@
+[{
+  "your_first_db": [["server_one", "database_one"]]
+  } ,
+  {
+    "your_second_db": [["server_two", "database_two"]]
+  },
+]
